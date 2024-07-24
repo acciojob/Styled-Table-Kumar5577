@@ -1,1 +1,8 @@
 /* your code */
+table{
+	border-collapse : collapse;
+	
+}
+tr:nth-of-type(even){
+	background-color: gray;
+}
